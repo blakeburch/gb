@@ -1,4 +1,6 @@
-# Page that can't be moved.
+# Vessels
+
+## Definition
 
 A Vessel is the "unit of work" in Shipyard, or an individual script that has been designed and built to accomplish a very specific job. Just like the real world equivalent, Vessels can be any size, shape, or speed, and built for any purpose. 
 
