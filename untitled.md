@@ -1,5 +1,23 @@
 # FAQs
 
+## How can I get access to Shipyard?
+
+If you want to start using Shipyard, you will need to reach out to us directly. There are 3 easy ways to do this:
+
+1. Send an email to [onboarding@shipyardapp.com](mailto:onboarding@shipyardapp.com)
+2. Send us a message via Intercom by clicking the chat bubble to your right.
+3. Visit [this page ](https://www.shipyardapp.com/request-access)and fill out the form with your contact information.
+
+After contacting us, we will follow up with you to schedule a brief 15 minute call. We want to take this time to better understand your pain points, potential use cases, and ensure that you can get started on the right foot.  
+  
+After our conversation, we'll begin the process of creating your account. As a follow-up, we're also happy to provide a brief personalized demo of the platform or just let you explore on your own.
+
+## Can I create an account on my own?
+
+No. We currently don't offer the ability to create an account on your own. We want to work closely with those that are using the platform so you can be set up for success \(and so we can also weed out potential bad actors at this stage\).
+
+We promise we don't bite, so feel free to reach out if you'd like an account. 😁 
+
 ## How do I submit feedback or a feature request?
 
 We love to hear what our users would like to see out of our product. Feel free to reach us at any time through intercom \(the chat bubble on the right\) or by sending an email directly to [support@shipyardapp.com](mailto:support@shipyardapp.com)
