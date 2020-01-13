@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [How to use the Documentation](how-to-use-the-documentation.md)
-* [FAQs](untitled.md)
+* [FAQs](faqs.md)
 
 ## 📚 Reference
 
